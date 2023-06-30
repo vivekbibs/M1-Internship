@@ -1,2 +1,2 @@
 # M1-Internship
-Differential expression Analysis, from  LTCD4 (Naive and TDT) RNASeq analysis, from Spleen and MLN
+Differential expression Analysis, from macaque rhesus LTCD4 (Naive and TDT) "Bulk" RNASeq data, from Spleen and MLN. 
